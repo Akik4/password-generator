@@ -1,3 +1,0 @@
-/home/stefan/Labs/Clion/learning/cmake-build-debug/CMakeFiles/learning.dir
-/home/stefan/Labs/Clion/learning/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/stefan/Labs/Clion/learning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
